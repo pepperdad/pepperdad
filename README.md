@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## JUNG SEONGHUN | 정도영
+## JEONG DO YEONG | 정도영
 I'm KONKUK University Student</br>
 My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
 
@@ -10,12 +10,8 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
 
 | Career 	| Date 	| department | Contents |
 |:-:	|:-:	|-	|-	|
-| 🎓korea Polytech University 	| 2017.03~2019.02 	| Major:Mechanical Engineering 	|  	|
-| 🎓Konkuk University 	| 2021.03~ 	| Major:Smart ICT CONVERGENCE	| Minor : Industrial engineering	|
-| 💼4S Mapper | 2021.07.01~2021.08.27 | Software Developer | http://yeongwol.dromii.com	|
-| 💼HyperHire | 2021.08.30~ | Software Developer | Web crawling, DB, MachineLearning, DataScience, NLP	|
+| 🎓Konkuk University 	| 2019.03~ 	| Major:Smart ICT CONVERGENCE	| 	|
 
-  
 
 
 ### 👨‍💻 Tech Stack
