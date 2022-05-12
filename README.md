@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 (수정 중)
 
 ## JEONG DO YEONG | 정도영
 I'm KONKUK University Student</br>
